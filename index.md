@@ -1,3 +1,3 @@
 # Index
 
-[hi](/test-repo/sub)
+[hi](./sub)
